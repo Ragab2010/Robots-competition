@@ -1,5 +1,8 @@
 # simulation-of-a-robotics-competition
-dsgYour task is  creation of the simulation of a robotics competition.  
+ see files  (Work.docx ,  Updates required 3.docx , FLOWCHART.png)
+ 
+ -----------------------------------------------------------------------
+Your task is  creation of the simulation of a robotics competition.  
  
  The competition consists of three phases. 
 1.Speed. The robots will race to reach the finish line. 
